@@ -1,6 +1,6 @@
-build/
-.out
-a.out
-.bin
-.o
-priv/
+/build/
+*.out
+*.bin
+*.o
+/priv/
+*.gitignore
