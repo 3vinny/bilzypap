@@ -1,5 +1,6 @@
 build/
 .out
+a.out
 .bin
 .o
 priv/
